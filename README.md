@@ -2,7 +2,7 @@
 
 ## Deploy Now
 
-[<img src="https://deploy.autocode.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 This project contains an endpoint that queries data from an Airtable base as an authless API. It wraps the [airtable.query.select](https://autocode.com/stdlib/airtable/query/#select) API and makes the data available for frontend calls. You can deploy this API in just a few clicks onto Autocode by clicking the button above and linking your desired Airtable Base.
 
