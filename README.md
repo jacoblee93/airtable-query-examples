@@ -87,9 +87,9 @@ The endpoint accepts [KeyQL query and limit parameters](https://github.com/Funct
 
 ### Linking Your Airtable Base
 
-You can deploy this API to Autocode by clicking the button below:
+Deploying your API is easy! Start by clicking the button below:
 
-[<img src="https://deploy.autocode.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 You'll be asked to log in and choose a name for your project. Do so, and the project editor will open. Open `functions/__main__.js`, and you'll see a bouncing red button on the bottom of your screen.
 
