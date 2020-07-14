@@ -1,0 +1,5 @@
+{
+  "name": "jacoblee/airtable-query-base",
+  "timeout": 10000,
+  "connector": false
+}

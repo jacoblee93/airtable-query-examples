@@ -1,0 +1,8 @@
+{
+  "name": "airtable-select-query",
+  "author": "Jacob Lee <jacob@polybit.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
