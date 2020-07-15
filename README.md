@@ -2,13 +2,15 @@
 
 ## Project Overview
 
+This project contains example endpoints that query data from an Airtable base. It uses the [airtable.query.select](https://autocode.com/stdlib/airtable/query/#select) API from Autocode's Standard Library. You can deploy your own working version of this project in just a few clicks with Autocode.
+
 [<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
-This project contains example endpoints that query data from an Airtable base. It uses the [airtable.query.select](https://autocode.com/stdlib/airtable/query/#select) API from Autocode's Standard Library. You can deploy your own working version of this project in just a few clicks with Autocode. Click the button above to open this project in Autocode, and create a copy of the sample base on your own Airtable account by clicking this link: https://airtable.com/addBaseFromShare/shrcOc6fZARviMGeK.
+Click the button above to open this project in Autocode, and create a copy of the sample base on your own Airtable account by clicking this link: https://airtable.com/addBaseFromShare/shrcOc6fZARviMGeK. Then, link your copy of the base to your project in Autocode and deploy!
 
 ![](./images/base-contents.png)
 
-The endpoints and queries are completely customizable –– everything is code that you can edit and test using the Autocode editor.
+Like all Autocode templates, the endpoints and queries in this project are completely customizable –– everything is code that you can edit and test using the Autocode editor.
 
 ## Endpoints
 
